@@ -1,1 +1,4 @@
 /target
+
+# Ignore any demo files in the project, typically used for local testing
+*.dem
